@@ -1,7 +1,1 @@
-services:
-  - type: web
-    name: mini-proyecto
-    env: python
-    plan: free
-    branch: main
-    autoDeploy: true
+
